@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccd68ced-28c9-4e5e-870d-c29e07ea845f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Calculate_triangle_area.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Calculate_triangle_area.py" afterDir="false" />
-    </list>
+    <list default="true" id="ccd68ced-28c9-4e5e-870d-c29e07ea845f" name="Changes" comment="* Se han utilizado tipos de datos float para la base y la altura del triángulo.&#10;* Comentarios y docstrings para explicar la funcionalidad del programa.&#10;* El programa ha sido probado y funciona correctamente.&#10;* Se ha seguido la convención snake_case para los identificadores." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,14 +61,59 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1719762872334</updated>
-      <workItem from="1719762874037" duration="1229000" />
+      <workItem from="1719762874037" duration="1450000" />
     </task>
+    <task id="LOCAL-00001" summary="* Se han utilizado tipos de datos float para la base y la altura del triángulo.&#10;* Comentarios y docstrings para explicar la funcionalidad del programa.&#10;* El programa ha sido probado y funciona correctamente.&#10;* Se ha seguido la convención snake_case para los identificadores.">
+      <option name="closed" value="true" />
+      <created>1719764252612</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719764252613</updated>
+    </task>
+    <task id="LOCAL-00002" summary="* Se han utilizado tipos de datos float para la base y la altura del triángulo.&#10;* Comentarios y docstrings para explicar la funcionalidad del programa.&#10;* El programa ha sido probado y funciona correctamente.&#10;* Se ha seguido la convención snake_case para los identificadores.">
+      <option name="closed" value="true" />
+      <created>1719764266174</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719764266174</updated>
+    </task>
+    <task id="LOCAL-00003" summary="* Se han utilizado tipos de datos float para la base y la altura del triángulo.&#10;* Comentarios y docstrings para explicar la funcionalidad del programa.&#10;* El programa ha sido probado y funciona correctamente.&#10;* Se ha seguido la convención snake_case para los identificadores.">
+      <option name="closed" value="true" />
+      <created>1719764302577</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719764302577</updated>
+    </task>
+    <task id="LOCAL-00004" summary="* Se han utilizado tipos de datos float para la base y la altura del triángulo.&#10;* Comentarios y docstrings para explicar la funcionalidad del programa.&#10;* El programa ha sido probado y funciona correctamente.&#10;* Se ha seguido la convención snake_case para los identificadores.">
+      <option name="closed" value="true" />
+      <created>1719764318104</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719764318104</updated>
+    </task>
+    <task id="LOCAL-00005" summary="* Se han utilizado tipos de datos float para la base y la altura del triángulo.&#10;* Comentarios y docstrings para explicar la funcionalidad del programa.&#10;* El programa ha sido probado y funciona correctamente.&#10;* Se ha seguido la convención snake_case para los identificadores.">
+      <option name="closed" value="true" />
+      <created>1719764324534</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1719764324534</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="* Se han utilizado tipos de datos float para la base y la altura del triángulo.&#10;* Comentarios y docstrings para explicar la funcionalidad del programa.&#10;* El programa ha sido probado y funciona correctamente.&#10;* Se ha seguido la convención snake_case para los identificadores." />
+    <option name="LAST_COMMIT_MESSAGE" value="* Se han utilizado tipos de datos float para la base y la altura del triángulo.&#10;* Comentarios y docstrings para explicar la funcionalidad del programa.&#10;* El programa ha sido probado y funciona correctamente.&#10;* Se ha seguido la convención snake_case para los identificadores." />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Calculate_triangle_area$Calculate_triangle_area.coverage" NAME="Calculate_triangle_area Coverage Results" MODIFIED="1719762995512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Calculate_triangle_area$Calculate_triangle_area.coverage" NAME="Calculate_triangle_area Coverage Results" MODIFIED="1719764234704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
