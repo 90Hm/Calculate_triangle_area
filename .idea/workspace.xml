@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccd68ced-28c9-4e5e-870d-c29e07ea845f" name="Changes" comment="* Se han utilizado tipos de datos float para la base y la altura del triángulo.&#10;* Comentarios y docstrings para explicar la funcionalidad del programa.&#10;* El programa ha sido probado y funciona correctamente.&#10;* Se ha seguido la convención snake_case para los identificadores." />
+    <list default="true" id="ccd68ced-28c9-4e5e-870d-c29e07ea845f" name="Changes" comment="* Se han utilizado tipos de datos float para la base y la altura del triángulo.&#10;* Comentarios y docstrings para explicar la funcionalidad del programa.&#10;* El programa ha sido probado y funciona correctamente.&#10;* Se ha seguido la convención snake_case para los identificadores.">
+      <change beforePath="$PROJECT_DIR$/Calculate_triangle_area.py" beforeDir="false" afterPath="$PROJECT_DIR$/Calculate_triangle_area.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1719762872334</updated>
-      <workItem from="1719762874037" duration="1450000" />
+      <workItem from="1719762874037" duration="1539000" />
     </task>
     <task id="LOCAL-00001" summary="* Se han utilizado tipos de datos float para la base y la altura del triángulo.&#10;* Comentarios y docstrings para explicar la funcionalidad del programa.&#10;* El programa ha sido probado y funciona correctamente.&#10;* Se ha seguido la convención snake_case para los identificadores.">
       <option name="closed" value="true" />
@@ -103,7 +105,23 @@
       <option name="project" value="LOCAL" />
       <updated>1719764324534</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="* Se han utilizado tipos de datos float para la base y la altura del triángulo.&#10;* Comentarios y docstrings para explicar la funcionalidad del programa.&#10;* El programa ha sido probado y funciona correctamente.&#10;* Se ha seguido la convención snake_case para los identificadores.">
+      <option name="closed" value="true" />
+      <created>1719764344443</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1719764344443</updated>
+    </task>
+    <task id="LOCAL-00007" summary="* Se han utilizado tipos de datos float para la base y la altura del triángulo.&#10;* Comentarios y docstrings para explicar la funcionalidad del programa.&#10;* El programa ha sido probado y funciona correctamente.&#10;* Se ha seguido la convención snake_case para los identificadores.">
+      <option name="closed" value="true" />
+      <created>1719764353682</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1719764353682</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

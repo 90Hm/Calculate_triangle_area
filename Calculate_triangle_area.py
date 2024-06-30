@@ -34,3 +34,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+#El programa ha funcionado correctamente
